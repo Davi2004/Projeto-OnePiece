@@ -2,18 +2,13 @@
 
 <p align="center"> Programa exclusivo e gratuito, promovido pelo &copy;DevEmDobro para ensino de tecnologias WEB. </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-</p>
-
 <br>
 
 <p align="center">
   <img alt="projeto DevLinks" src=".github/Captura de tela 2024-07-22 110513.png" width="100%">
 </p>
 
-## Tecnologias 🚀
+Tecnologias 🚀
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -21,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## Projeto 💻
+Projeto 💻
 
 <p> O "GrandLinePortal" é um website voltado aos amantes de animes, onde apresento a vocês o clã do chápeu de palha de OnePiece com informações dos personagens principais. </p>
 
