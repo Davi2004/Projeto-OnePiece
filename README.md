@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Captura de tela 2024-07-22 110513.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/Captura de tela 2024-07-22 110513.png" width="100%">
 </p>
 
 Tecnologias 🚀
